@@ -57,7 +57,7 @@ public class ListaFilmesActivity extends AppCompatActivity
 
     @Override
     public void mostraErro() {
-        Toast.makeText(this, "Erro ao obter liista de filmes",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Erro ao obter lista de filmes",Toast.LENGTH_SHORT).show();
     }
 
     @Override
